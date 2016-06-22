@@ -9,8 +9,7 @@ my_headers = {'content-type': 'application/json-rpc'}
 
 
 switch = [
-          ['10.114.217.157', 'admin', 'cisco123'],
-	  ['10.91.23.84', 'admin', 'cisco']
+          ['10.114.217.161', 'admin', 'cisco123'],
           ]
 required_vlans = [100,
                   67,

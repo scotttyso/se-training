@@ -9,7 +9,8 @@ my_headers = {'content-type': 'application/json-rpc'}
 
 
 switch = [
-          ['vpn.advtechracks.com:8188', 'admin', 'C1sc0123'],
+          ['10.114.217.157', 'admin', 'cisco123'],
+	  ['10.91.23.84', 'admin', 'cisco']
           ]
 required_vlans = [100,
                   67,

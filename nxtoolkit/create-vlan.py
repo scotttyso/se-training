@@ -4,9 +4,9 @@ import json
 """
 Modify these please
 """
-url='http://vpn.advtechracks.com:8188/ins'
+url='http://10.114.217.161/ins'
 switchuser='admin'
-switchpassword='C1sc0123'
+switchpassword='cisco123'
 
 myheaders={'content-type':'application/json'}
 payload={
